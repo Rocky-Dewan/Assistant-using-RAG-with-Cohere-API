@@ -53,6 +53,10 @@ python rag_pipeline.py
 Ask Questions!
 
 Example: "What is the expected ROI of Riverside Apartments?"
+In my time Output look like:
+
+<img width="897" height="465" alt="image" src="https://github.com/user-attachments/assets/0073a458-3d84-4a9f-812f-de01dd5fd7d2" />
+
 
 🧩 Problems I Faced & How I Solved Them
 Problem	Solution
