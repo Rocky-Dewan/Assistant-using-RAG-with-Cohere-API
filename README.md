@@ -54,7 +54,7 @@ Ask Questions!
 
 Example: "What is the expected ROI of Riverside Apartments?"
 
-🧩 Problems You Faced & How You Solved Them
+🧩 Problems I Faced & How I Solved Them
 Problem	Solution
 ❌ Used OpenAI API by default	✅ Switched to Cohere embeddings and LLM
 ❌ Used deprecated imports from langchain	✅ Updated to langchain_community and langchain_cohere
