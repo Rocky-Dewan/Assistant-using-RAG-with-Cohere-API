@@ -45,5 +45,5 @@ if __name__ == "__main__":
         query = input("\nAsk your property-related question (or type 'exit'): ")
         if query.lower() == "exit":
             break
-        answer = qa.run(query)
+        answer = qa.invoke(query)
         print("\n🔍 Answer:", answer)
